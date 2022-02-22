@@ -5,7 +5,7 @@
 1. Click a link below
 2. Follow all in colab!
 
-- Refer to (https://github.com/xuebinqin/U-2-Net)
+- Refer to [U-2-Net GitHub](https://github.com/xuebinqin/U-2-Net)
 
 <!-- <table align="left">
   <td>
